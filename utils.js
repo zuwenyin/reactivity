@@ -30,3 +30,6 @@ export const TriggerOpTypes = {
   ADD: 'add',
   DELETE: 'delete'
 }
+
+// 存储原始对象
+export const RAW = Symbol("RAW");
